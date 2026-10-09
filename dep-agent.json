@@ -1,0 +1,5 @@
+{
+  "auto_levels": ["patch", "minor"],
+  "exclude": [],
+  "test_command": "python -m pytest -q"
+}
